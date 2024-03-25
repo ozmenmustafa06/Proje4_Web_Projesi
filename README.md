@@ -68,4 +68,4 @@
 
 <hr>
 
-<p>DİP NOT: Bu web sitesi python ve django kullanılarak yapılmıştır ve verileri veri tabanına kaydeder ve ordan sonuçlar alarak çalışır.</p>
+<p>DİP NOT: Bu web sitesi eğitim projesi olarak yapılmış olup Python dili ve Django kütüphanesi kullanılarak yapılmıştır ve verileri veri tabanına kaydeder ve veritabanından veriler alarak çalışır.</p>
